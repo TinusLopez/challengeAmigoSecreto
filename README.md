@@ -2,6 +2,8 @@
 
 Aplicación para sortear Nombres de Amigos al Azar. Encuentra a tu Amigo Secreto al azar de una lista.
 
+![Aplicación: Amigo Secreto](./assets/app.png)
+
 ## Objetivos 
 Desarrollar una aplicación web interactiva que permita a los usuarios:
 - Configurar el número de amigos participantes.
