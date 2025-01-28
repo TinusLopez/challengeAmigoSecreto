@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Amigo Secreto
 
 Aplicación para sortear Nombres de Amigos al Azar. Encuentra a tu Amigo Secreto al azar de una lista.
 
